@@ -21,7 +21,7 @@
             "working": "Immediately"
 
         },
-        "skills": [
+        "skills":{ [
             "JavaScript",
             "Angular2+",
             "CSS",
@@ -29,7 +29,8 @@
             "Debugging",
             "Problem Solving"
 
-        ],
+        ]
+                 },
         "objective": {
             "objective": "To get an opportunity that allows me to showcase my skills and contribute to the company's growth."
         },
