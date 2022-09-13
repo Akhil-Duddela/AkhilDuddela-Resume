@@ -1,0 +1,60 @@
+[{
+        "header": {
+            "name": "Akhil Duddela",
+            "detail": "FrontEnd Developer"
+        },
+        "contact": {
+
+            "mobile": "+91 9949110134",
+            "email": "duddelaakhil25@gmail.com",
+            "github": "https://github.com/Akhil-Duddela",
+            "linkedin": "https://www.linkedin.com/in/akhil-duddela-42b16523a/"
+
+        },
+        "personal": {
+
+            "location": "Hyderabad",
+            "state": "Telangana",
+            "birth": "May 16 1999",
+            "gender": "Male",
+            "time": "Full Time Job",
+            "working": "Immediately"
+
+        },
+        "skills": [
+            "JavaScript",
+            "Angular2+",
+            "CSS",
+            "HTML",
+            "Debugging",
+            "Problem Solving"
+
+        ],
+        "objective": {
+            "objective": "To get an opportunity that allows me to showcase my skills and contribute to the company's growth."
+        },
+        "education": {
+            "study1": "Graduation",
+            "course": "ECE B.Tech",
+            "college": "CMR Institue of Technologies",
+            "year1": "June 2020",
+            "score1": "6.8",
+            "study2": "Class XII",
+            "board1": "Telangana State Board of Intermediate Education (TSBIE)",
+            "board2": "The Board of Secondary Education, Telangana",
+            "medium": "English",
+            "score2": "94.1%",
+            "year2": "2016",
+            "year3": "2014",
+            "study3": "CLASS X",
+            "score3": "9.5/10"
+
+        },
+        "projects": [
+            "Swag of India - Created a E-commerece web pages using html,css,angular,JS.", "ToDoApp - Created an app to note down the all the to-do lists.", "WeatherApp - Created an app to check the weather in different cities."
+        ],
+
+        "awards": ["Nagpur state cricket champioship winners", "Inter-college zonal winners Cricket "]
+
+    }
+]
