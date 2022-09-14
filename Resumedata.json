@@ -51,11 +51,16 @@
             "score3": "9.5/10"
 
         },
-        "projects": [
+        "projects": {"project":
+                      [
             "Swag of India - Created a E-commerece web pages using html,css,angular,JS.", "ToDoApp - Created an app to note down the all the to-do lists.", "WeatherApp - Created an app to check the weather in different cities."
-        ],
+        ]
+                     
+        }
+       ,
 
-        "awards": ["Nagpur state cricket champioship winners", "Inter-college zonal winners Cricket "]
+        "awards": {"award": ["Nagpur state cricket champioship winners", "Inter-college zonal winners Cricket "]
+        }
 
     }
 ]
